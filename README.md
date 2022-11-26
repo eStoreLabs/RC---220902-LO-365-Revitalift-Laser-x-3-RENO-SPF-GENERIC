@@ -1,4 +1,4 @@
-# Revitalift-Laser-x-3-RENO-Night 220902-LO-365
+# Revitalift-Laser-x-3-RENO-SPF 220902-LO-365
 
 <!-- please enter project number recived from PM -->
 
@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site](https://estorelabs.github.io/RC---220902-LO-365-Revitalift-Laser-x-3-RENO-Night-GENERIC/)
+[Project live site](https://estorelabs.github.io/RC---220902-LO-365-Revitalift-Laser-x-3-RENO-SPF-GENERIC/)
 
 ## PROJECT PREVIEW
 
@@ -14,7 +14,7 @@
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
-[.psd link](https://drive.google.com/drive/folders/1Cztpi2u8vIS5MaqBJEGInU2ft4Ccte3a)
+[.psd link](https://drive.google.com/drive/folders/1HYn9ApnPczxaYquiDl5LUDq1BTRfDfa7)
 
 <!-- please enter link to preview designs -->
 
